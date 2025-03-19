@@ -1,2 +1,2 @@
 # Konover
-A simple and nice malware
+A simple feature rich Windows user-mode rootkit
